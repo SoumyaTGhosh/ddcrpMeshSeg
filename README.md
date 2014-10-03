@@ -20,7 +20,7 @@ Please cite this paper if you use this software. Given meshes in different poses
 1) Tom Minka's lightspeed toolbox:
 http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/ 
 
-2) David Gleich's Matlab interface to the Boost Graph Library:
+2) David Gleich's MATLAB interface to the Boost Graph Library:
 http://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/
 
 **USAGE**:

@@ -1,6 +1,7 @@
 #ddcrpMeshSegmentation:
 ------------------------------------
 Distance Dependent Chinese Restaurant Processes for Mesh Segmentation
+
 Author: Soumya Ghosh (sghosh <AT> cs.brown.edu)
 
 This software package includes an implementation of Gibbs sampling for the 

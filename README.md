@@ -1,8 +1,9 @@
 #ddcrpMeshSegmentation:
 ------------------------------------
-Distance Dependent Chinese Restaurant Processes for Mesh Segmentation
+#####Distance Dependent Chinese Restaurant Processes for Mesh Segmentation
 
-Author: Soumya Ghosh (sghosh <AT> cs.brown.edu)
+#####Author: Soumya Ghosh (sghosh `<AT>` cs.brown.edu)
+--------------------------------------
 
 This software package includes an implementation of Gibbs sampling for the 
 distance dependent Chinese restaurant process along with utility functions for motion based mesh segmentation.
@@ -21,3 +22,6 @@ http://research.microsoft.com/en-us/um/people/minka/software/lightspeed/
 
 2) David Gleich's Matlab interface to the Boost Graph Library:
 http://www.cs.purdue.edu/homes/dgleich/packages/matlab_bgl/
+
+**USAGE**:
+Please see demo_segmentation.m

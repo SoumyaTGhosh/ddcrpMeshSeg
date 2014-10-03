@@ -1,4 +1,4 @@
-#ddcrpMeshSegMentation: 
+#ddcrpMeshSegmentation: 
 ###Distance Dependent Chinese Restaurant Processes for Mesh Segmentation
 ####Author: Soumya Ghosh (sghosh <AT> cs.brown.edu)
 ------------------------------------

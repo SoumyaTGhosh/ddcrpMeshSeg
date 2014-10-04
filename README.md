@@ -6,7 +6,7 @@
 --------------------------------------
 
 This software package includes an implementation of Gibbs sampling for the 
-distance dependent Chinese restaurant process along with utility functions for motion based mesh segmentation.
+distance dependent Chinese restaurant process along with utility functions for motion/deformation based mesh segmentation.
 The code is based on the model presented in:
 
 **From Deformations to Parts:Motion-based Segmentation of 3D Objects**.

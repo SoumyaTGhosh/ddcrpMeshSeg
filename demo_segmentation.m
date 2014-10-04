@@ -17,7 +17,6 @@ NUMITER = 35;
 % 2) Select dataset to analyze
 % We include two sets of meshes from the TOSCA dataset (Centaur and Horse).
 % Each dataset consists of a single synthetic mesh in several different poses.
-% We will segment 
 DATASET = 'Centaur'; % could also select 'Horse'
 % 3) Noise parameter, this controls the amount of deviation from the
 % predicted affine transformation.

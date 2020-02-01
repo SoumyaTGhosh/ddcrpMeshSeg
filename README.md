@@ -1,4 +1,4 @@
-# ddcrpMeshSegmentation:
+# ddcrpMeshSegmentation: For an updated python implementation see Ishana Shastri's fork here: https://github.com/ishanashastri/py-ddcrpMeshSeg
 ------------------------------------
 ##### Distance Dependent Chinese Restaurant Processes for Mesh Segmentation
 
